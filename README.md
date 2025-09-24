@@ -1,4 +1,3 @@
-```markdown
 # AIC8800D80 WiFi Driver Installation Script
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
